@@ -2,6 +2,7 @@
 #### 1. Напишите запрос по своей базе с регулярным выражением, добавьте пояснение, что вы хотите найти.
 > Выводим всех пациентов
 <image src="https://github.com/ArinichElena/DML/blob/main/select.png">
+  
 > Доктора с их специализациями
 <image src="https://github.com/ArinichElena/DML/blob/main/select%20left.png">
   
