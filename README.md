@@ -8,6 +8,7 @@
 #### 2. Напишите запрос по своей базе с использованием LEFT JOIN и INNER JOIN, как порядок соединений в FROM влияет на результат? Почему?
 > INNER JOIN оставляет строки, которые пересекаются в обеих таблицах
 <image src="https://github.com/ArinichElena/DML/blob/main/select%20left%202.png">
+  
 > LEFT JOIN выводит все значения из первой таблицы и находит им сопоставление из второй (данные погут быть пустые). В примере ниже, для 5 и 6 поликлиники нет врачей.
 <image src="https://github.com/ArinichElena/DML/blob/main/select%20inner.png">
   
